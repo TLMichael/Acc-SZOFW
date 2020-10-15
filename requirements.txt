@@ -1,0 +1,7 @@
+torch==1.3.0
+torchvision
+tensorflow>=1.15.2
+tqdm
+pandas
+Pillow
+scikit-learn
